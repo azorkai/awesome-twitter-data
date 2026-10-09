@@ -137,6 +137,8 @@ Metadata, ratings, and user datasets
 
 * `X engagement rate benchmarks, October 2026 <https://github.com/playersells/open-data/tree/master/datasets/x-engagement-benchmarks-2026-10>`_ {`CC-BY 4.0`_} [152k accounts] - Metadata; engagement rate percentiles by follower band and 45 posting pattern effects (hour, weekday, length, hashtags, links, media), aggregated from 30 days of original posts by 152,291 X accounts. Aggregates only, no account-level rows.
 
+* `X views per follower by account size and Premium badge, 2026 <https://github.com/playersells/open-data/tree/master/datasets/x-reach-per-follower-premium-2026>`_ {`CC-BY 4.0`_} [61k accounts] - Metadata; median post views as a share of followers by follower band, and Premium-badge against no-badge accounts of the same size, from 60,892 X accounts measured August to October 2026. Aggregates only, no account-level rows.
+
 
 Graph and network datasets
 --------------------------
